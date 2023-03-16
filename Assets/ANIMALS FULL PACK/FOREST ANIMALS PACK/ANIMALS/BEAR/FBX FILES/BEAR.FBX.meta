@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: de4c9337ba562884aa502cb85df7900a
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable:
+  - first:
+      43: 4300000
+    second: BEAR
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - a435a615b667235479174bf226411fce
+  - 75a018c52eaabf649b1e902192df90e1
+  - 5e3014098e920c949a8471dd25d181e6
+  - fe9a7f062994afc4d8af9acfbf8b1728
+  - 5625f44b53e722343998b54d4caa9d0b
+  - d99b5632b32006142a80ec2a3990dc8f
+  - 37412a366d150ed489fe6615ffa75aa7
+  - 1b41992139c40b0418b89256339f958a
+  - 67137b92dd950684c82b84900b7dddd0
+  - 110b0461860488d44b0c678231e27a82
+  - ce8478c38aca2844dae26926fded796a
+  - cf7c0424ee4f6a143a1adab161ef302b
+  - d6f089faf8dca7b428e186baa5c2d1d3
+  - 4df3420940e35bf4a8a793a4567f755c
+  - 4fb33c9dac275fa4e929dac18fa04242
+  - 22190dd6c2d124741bf4fde1231134b0
+  - d8eab85b8922a6041ac9274de9bdfe72
+  - 57c0a0d93beddda4d8967ff37ed99144
+  - 112a03dadbf3f9c4584bdfd83f9741d3
+  - fba291c463cc0054fb6f4153c9b83b3c
+  - 1b01f48dc2464554f8ef2d96673ebf06
+  - 0415794033f9244448ae9516651c5c06
+  - bae04c42709c83741b6fe5c2cfe405cc
+  - 4b264c03d5cc9c240aa62020b6946147
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: BEAR(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0.0000011230152, z: 0.0000011230152, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BEAR
+      parentName: BEAR(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BEAR_
+      parentName: BEAR(Clone)
+      position: {x: -0, y: 1.0484972, z: -0.47116172}
+      rotation: {x: -0.017415177, y: 0.017416459, z: 0.7068918, w: 0.7068928}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: BEAR_ Pelvis
+      parentName: BEAR_
+      position: {x: -1.1113788, y: 0.000004768371, z: 1.5554206}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: BEAR_ Spine
+      parentName: BEAR_ Pelvis
+      position: {x: -0.2497774, y: -0.0034539795, z: 0.0000003511815}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: BEAR_ Spine1
+      parentName: BEAR_ Spine
+      position: {x: -0.4537184, y: -0.00036064148, z: -0.0000000010002986}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000001}
+    - name: BEAR_ Neck
+      parentName: BEAR_ Spine1
+      position: {x: -0.48430905, y: -0.055579375, z: -0.00000007982904}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000002}
+    - name: BEAR_ L Clavicle
+      parentName: BEAR_ Neck
+      position: {x: 0.031342924, y: 0.02089119, z: 0.09531641}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 0.9999998, y: 0.9999998, z: 1}
+    - name: BEAR_ L UpperArm
+      parentName: BEAR_ L Clavicle
+      position: {x: -0.3296974, y: 0, z: 0.000000114440915}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1.0000004}
+    - name: BEAR_ L Forearm
+      parentName: BEAR_ L UpperArm
+      position: {x: -0.47206077, y: -0.000000057220458, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000005}
+    - name: BEAR_ L Hand
+      parentName: BEAR_ L Forearm
+      position: {x: -0.41354355, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000002}
+    - name: BEAR_ L Finger0
+      parentName: BEAR_ L Hand
+      position: {x: -0.11244644, y: 0.024614021, z: -0.0014008331}
+      rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BEAR_ L Finger01
+      parentName: BEAR_ L Finger0
+      position: {x: -0.09861496, y: 0.0000000023841857, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: BEAR_ R Clavicle
+      parentName: BEAR_ Neck
+      position: {x: 0.031342886, y: 0.020891722, z: -0.095316425}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: BEAR_ R UpperArm
+      parentName: BEAR_ R Clavicle
+      position: {x: -0.3296974, y: 0, z: -0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999996, y: 1, z: 1.0000007}
+    - name: BEAR_ R Forearm
+      parentName: BEAR_ R UpperArm
+      position: {x: -0.47206074, y: -0.000000038146972, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000002}
+    - name: BEAR_ R Hand
+      parentName: BEAR_ R Forearm
+      position: {x: -0.4135436, y: 0.000000038146972, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1.0000005}
+    - name: BEAR_ R Finger0
+      parentName: BEAR_ R Hand
+      position: {x: -0.1124464, y: 0.024614014, z: 0.0014009094}
+      rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BEAR_ R Finger01
+      parentName: BEAR_ R Finger0
+      position: {x: -0.098614916, y: 0.0000000023841857, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000002}
+    - name: BEAR_ Neck1
+      parentName: BEAR_ Neck
+      position: {x: -0.27422905, y: -0.00020713806, z: -5.7436406e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000001}
+    - name: BEAR_ Head
+      parentName: BEAR_ Neck1
+      position: {x: -0.34441966, y: -0.021995239, z: -0.000000102109475}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000005}
+    - name: BEAR_ Queue de cheval 1
+      parentName: BEAR_ Head
+      position: {x: 0.17028777, y: 0.120090745, z: -0.0000003827045}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: BEAR_ L Thigh
+      parentName: BEAR_ Spine
+      position: {x: 0.24911019, y: 0.018566893, z: 0.36471668}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000006}
+    - name: BEAR_ L Calf
+      parentName: BEAR_ L Thigh
+      position: {x: -0.5775774, y: 0, z: 0.000000114440915}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: BEAR_ L Foot
+      parentName: BEAR_ L Calf
+      position: {x: -0.40871367, y: 0, z: -0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: BEAR_ L Toe0
+      parentName: BEAR_ L Foot
+      position: {x: -0.1301859, y: 0.19842811, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000004, y: 1, z: 1.0000004}
+    - name: BEAR_ L Toe01
+      parentName: BEAR_ L Toe0
+      position: {x: -0.052794263, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: BEAR_ L Toe02
+      parentName: BEAR_ L Toe01
+      position: {x: -0.013368034, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: BEAR_ R Thigh
+      parentName: BEAR_ Spine
+      position: {x: 0.24911019, y: 0.018568953, z: -0.3647166}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: BEAR_ R Calf
+      parentName: BEAR_ R Thigh
+      position: {x: -0.57757735, y: 0.000000038146972, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000005, z: 1.0000001}
+    - name: BEAR_ R Foot
+      parentName: BEAR_ R Calf
+      position: {x: -0.4087136, y: -0.000000038146972, z: -0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: BEAR_ R Toe0
+      parentName: BEAR_ R Foot
+      position: {x: -0.1301859, y: 0.19842815, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000006}
+    - name: BEAR_ R Toe01
+      parentName: BEAR_ R Toe0
+      position: {x: -0.052794263, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: BEAR_ R Toe02
+      parentName: BEAR_ R Toe01
+      position: {x: -0.013367996, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 0.99999994, z: 0.9999998}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
